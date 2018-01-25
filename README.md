@@ -1,2 +1,3 @@
 # TelegramTopicModels
-Построение тематических моделей на примере данных из телеграмм конференций
+
+Building of the topic models on the data from telegram group chats 
